@@ -30,7 +30,7 @@ paypay = PayPay(
 - pip 22.0.4
 - git 2.42.0
 ### インストール
-`pip install -U git+https://github.com/star7557/paypay.py.git`
+`pip install -U git+https://github.com/Aky-0114/paypay.py.git`
 
 ## ライセンス
 ```
